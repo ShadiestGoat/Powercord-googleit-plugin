@@ -1,6 +1,6 @@
 # Powercord-googleit-plugin
 
-Makes a command that makes a url to 'just-fucking-google.ts', for when idiots forget about google
+Makes a command that makes a url to 'just-fucking-google.it', for when idiots forget about google
 
 
 # How to install
